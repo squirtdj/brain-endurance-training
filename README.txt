@@ -3,7 +3,7 @@ BRAIN ENDURANCE TRAINING · IPHONE WEB APP V1
 This is a touch-friendly, offline-capable web app prototype. It stores data locally in the browser on each device; it does not upload results.
 
 Battery order and target active timing:
-PVT pre 3:00; Stroop 3:00; Simon 3:00; Flanker 3:00; 2-back 6:00; PVT post 2:00. Total target duration 20 minutes.
+PVT pre 3:00; Stroop 3:00; Simon 3:00; Flanker 3:00; 2-back 5:00; PVT post 3:00. Total target duration 20 minutes.
 
 Controls:
 PVT: tap response button or Space. Stroop: R/G/B/Y keys or colour buttons. Simon: R/B keys or buttons. Flanker: left/right arrow keys or buttons. 2-back: tap MATCH or press Space when the letter matches the one two trials earlier.
