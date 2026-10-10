@@ -26,3 +26,13 @@ Local storage is not automatically shared between iPhone and Windows. Export CSV
 
 IMPORTANT LIMITATIONS
 This is a personal prototype, not a validated research or diagnostic instrument. Reaction time depends on device, display refresh, touch latency, browser and input method. Do not treat iPhone touch RT and Windows keyboard RT as interchangeable without validation. The overall battery timer is fixed at 20 minutes, while task transitions and asynchronous callbacks can introduce small timing differences. Test the timing and scoring on the actual iPhone before using results for a formal experiment. Task variants are simplified, not exact replicas of proprietary tests.
+
+
+UPDATED BUILD SETTINGS (v7)
+- Pre-PVT: 3:00
+- Stroop: 3:00 (existing setting retained)
+- Simon: 3:00 (existing setting retained)
+- Flanker: 3:00 (existing setting retained)
+- 2-back: 5:00; each letter is visible for 500 ms followed by a fixation marker for the remainder of a 3,000 ms trial cycle. The response window remains open for the full cycle, and trials advance automatically on the fixed timing.
+- Post-PVT: 3:00
+- Results compare pre/post mean and median reaction time, percentage change, lapses and false starts.
